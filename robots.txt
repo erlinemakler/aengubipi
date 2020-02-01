@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahjeikies.rocketraceheroes.com/sitemap.xml
